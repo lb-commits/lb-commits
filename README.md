@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋 Welcome To My Github</h2>
+<h2 align="center">Hi👋 Welcome To My Github</h2>
 
 ###
 
@@ -28,5 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/lb-commits/lb-commits/output/snake.svg" alt="Snake animation" />
 
 ###
